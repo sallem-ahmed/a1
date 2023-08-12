@@ -1,5 +1,5 @@
 void (fun) void
 {
 	
-	
+	gug
 }
